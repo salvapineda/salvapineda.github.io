@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,13 +13,18 @@ I earned my Ph.D. in Electrical Engineering from the University of Castilla-La M
 
 My research focuses on power system operation and planning, decision-making under uncertainty, bilevel programming, machine learning, and statistics.
 
-##
+# Contact
 
-Contact
+**Address:**  
+Edif. Ingenierías Office 2.085D,  
+C/ Doctor Ortíz Ramos s/n,  
+29071, Málaga, Spain  
+[Directions](https://maps.google.com/maps?ll=36.714982,-4.491975&z=16&t=m&hl=en-US&gl=US&mapclient=embed&daddr=UMA%3A%20Escuela%20T%C3%A9cnica%20Superior%20de%20Ingenier%C3%ADa%20Industrial%20Edificio%20de%20Ingenier%C3%ADas%2C%20UMA%20Campus%20de%20Teatinos%20C%2F%20Doctor%20Ortiz%20Ramos%2C%20S%2FN%2029071%20M%C3%A1laga%2C%20Spain@36.7154756,-4.4931618)
 
-Address:   ​Edif. Ingenierías Office 2.085D, C/ Doctor Ortíz Ramos s/n, 29071, Málaga, Spain ([directions](https://maps.google.com/maps?ll=36.714982,-4.491975&z=16&t=m&hl=en-US&gl=US&mapclient=embed&daddr=UMA%3A%20Escuela%20T%C3%A9cnica%20Superior%20de%20Ingenier%C3%ADa%20Industrial%20Edificio%20de%20Ingenier%C3%ADas%2C%20UMA%20Campus%20de%20Teatinos%20C%2F%20Doctor%20Ortiz%20Ramos%2C%20S%2FN%2029071%20M%C3%A1laga%2C%20Spain@36.7154756,-4.4931618))
+**Phone:**  
+0034 ​951952357  
+0034 681600943
 
-Phone: 0034 ​951952357, 0034 681600943
-
-Email: [](mailto:spineda@uma.es)
+**Email:**  
+[spineda@uma.es](mailto:spineda@uma.es)
 

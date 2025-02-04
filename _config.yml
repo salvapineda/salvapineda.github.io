@@ -24,8 +24,8 @@ author:
   avatar           : "Picture.png"
   name             : "Salvador Pineda"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher and profesor 🧑‍🔬. Nonconformist 🤘. Citizen of the world 🌍. Advocate for culture 📖, open source 💻, and bikes 🚲. Live and let live! 🏳️‍🌈"
-  location         : "Edif. Ingenierías Office 2.077D, C/ Doctor Ortíz Ramos s/n, 29071, Málaga, Spain"
+  bio              : "🏳️‍🌈🔬🧑‍🔬🤘🌍📖💻🚲♻️♟️"
+  location         : "Málaga (Spain)"
   employer         : "University of Málaga"
   uri              : # URL
   email            : "spineda@uma.es" 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "salvapineda" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "spinedamorente"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -69,7 +69,7 @@ author:
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "salvapineda"
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username

@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1089-0970?lang=en"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FSalvador-Pineda-3&sa=D&sntz=1&usg=AOvVaw2IvZABYXFDFNqZoTryoCGs"
   scopus           : "https://www.google.com/url?q=https%3A%2F%2Fwww.scopus.com%2Fauthid%2Fdetail.uri%3FauthorId%3D26649593600&sa=D&sntz=1&usg=AOvVaw00p3TTQ1QZGt8-YUmgRhf7"
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "salvapineda" # Replace this with you Bluesky username
+  bluesky          : "salvapineda.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

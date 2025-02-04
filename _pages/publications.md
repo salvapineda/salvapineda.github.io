@@ -4,6 +4,10 @@ title: "Publications"
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
 ## Working Papers
 
 1.  E. Prat, R. M. Lusby, J. M. Morales, S. Pineda, P. Pinson, "How long is long enough? Finite-horizon approximation of energy storage scheduling problems" ([preprint](https://arxiv.org/abs/2411.17463))

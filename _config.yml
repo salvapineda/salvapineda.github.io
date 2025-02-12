@@ -37,8 +37,8 @@ author:
   orcid            : "https://orcid.org/0000-0002-1089-0970?lang=en"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FSalvador-Pineda-3&sa=D&sntz=1&usg=AOvVaw2IvZABYXFDFNqZoTryoCGs"
-  scopus           : "https://www.google.com/url?q=https%3A%2F%2Fwww.scopus.com%2Fauthid%2Fdetail.uri%3FauthorId%3D26649593600&sa=D&sntz=1&usg=AOvVaw00p3TTQ1QZGt8-YUmgRhf7"
+  researchgate     : "https://www.researchgate.net/profile/Salvador-Pineda-3"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=26649593600"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

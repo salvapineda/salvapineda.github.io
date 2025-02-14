@@ -4,34 +4,6 @@ title: "Links"
 author_profile: true
 ---
 
-## GAMS
-
-- [Documentation Center](https://www.gams.com/latest/docs/)
-- [Support Wiki](http://support.gams.com/start)
-- [YouTube Lessons](https://www.youtube.com/user/GAMSLessons)
-- [General Questions Using GAMS](http://support.gams.com/doku.php?id=gams:gams#error_messages)
-- [Model Library GAMS](https://www.gams.com/latest/gamslib_ml/libhtml/)
-
-## LaTeX
-
-- [LaTeX Tutorial](https://www.latex-tutorial.com/tutorials/)
-- [LaTeX Wiki](https://en.wikibooks.org/wiki/LaTeX)
-- [LaTeX Templates](http://www.latextemplates.com/)
-- [Collaborative Writing in Overleaf](https://www.overleaf.com/)
-- [Detexify Handwriting Recognition](http://detexify.kirelabs.org/classify.html)
-- [TikZ Manual for Figures](http://mirrors.dotsrc.org/ctan/graphics/pgf/base/doc/pgfmanual.pdf)
-- [List of LaTeX Symbols](http://mirrors.dotsrc.org/ctan/info/symbols/comprehensive/symbols-a4.pdf)
-- [List of LaTeX Mathematical Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
-- [Beamer Manual for Presentations](http://mirrors.dotsrc.org/ctan/macros/latex/contrib/beamer/doc/beameruserguide.pdf)
-- [Beamer Wiki](https://en.wikibooks.org/wiki/LaTeX/Presentations)
-- [24-Bus TikZ Figure](https://sites.google.com/site/slv2pm/tips/24bustikz)
-- PGF Plot Galleries: [Gallery 1](http://pgfplots.sourceforge.net/gallery.html), [Gallery 2](http://texample.net/tikz/examples/)
-- [EPS Icons](http://www.flaticon.es/)
-- [Daum Equation Editor](http://s1.daumcdn.net/editor/fp/service_nc/pencil/Pencil_chromestore.html)
-- [Convert Equation to LaTeX](https://mathpix.com/)
-- [Create LaTeX Tables](https://www.tablesgenerator.com/)
-- [Tex2solver](https://tex2solver.com/)
-
 ## Python
 
 - [Python Wikibook](https://en.wikibooks.org/wiki/Python_Programming)
@@ -46,6 +18,7 @@ author_profile: true
 - [List of Optimization Packages in Python](https://ktafakkori.github.io/optimization-packages-in-python-list/)
 - [List of Machine Learning Packages in Python](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
 - [Data-Driven Mathematical Optimization in Python](https://mobook.github.io/MO-book/intro.html)
+- [Solving OPF in Gurobi](https://gurobi-optimods.readthedocs.io/en/stable/mods/opf/opf.html#)
 
 ## Power Systems Data
 
@@ -79,6 +52,34 @@ author_profile: true
 - [Open Infrastructure Map](https://openinframap.org/#2/26/12)
 - [OPFData: Large-Scale Datasets for AC OPF](https://console.cloud.google.com/storage/browser/gridopt-dataset;tab=objects?pli=1&prefix=&forceOnObjectsSortingFiltering=false)
 
+## LaTeX
+
+- [LaTeX Tutorial](https://www.latex-tutorial.com/tutorials/)
+- [LaTeX Wiki](https://en.wikibooks.org/wiki/LaTeX)
+- [LaTeX Templates](http://www.latextemplates.com/)
+- [Collaborative Writing in Overleaf](https://www.overleaf.com/)
+- [Detexify Handwriting Recognition](http://detexify.kirelabs.org/classify.html)
+- [TikZ Manual for Figures](http://mirrors.dotsrc.org/ctan/graphics/pgf/base/doc/pgfmanual.pdf)
+- [List of LaTeX Symbols](http://mirrors.dotsrc.org/ctan/info/symbols/comprehensive/symbols-a4.pdf)
+- [List of LaTeX Mathematical Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+- [Beamer Manual for Presentations](http://mirrors.dotsrc.org/ctan/macros/latex/contrib/beamer/doc/beameruserguide.pdf)
+- [Beamer Wiki](https://en.wikibooks.org/wiki/LaTeX/Presentations)
+- [24-Bus TikZ Figure](https://sites.google.com/site/slv2pm/tips/24bustikz)
+- PGF Plot Galleries: [Gallery 1](http://pgfplots.sourceforge.net/gallery.html), [Gallery 2](http://texample.net/tikz/examples/)
+- [EPS Icons](http://www.flaticon.es/)
+- [Daum Equation Editor](http://s1.daumcdn.net/editor/fp/service_nc/pencil/Pencil_chromestore.html)
+- [Convert Equation to LaTeX](https://mathpix.com/)
+- [Create LaTeX Tables](https://www.tablesgenerator.com/)
+- [Tex2solver](https://tex2solver.com/)
+
+## GAMS
+
+- [Documentation Center](https://www.gams.com/latest/docs/)
+- [Support Wiki](http://support.gams.com/start)
+- [YouTube Lessons](https://www.youtube.com/user/GAMSLessons)
+- [General Questions Using GAMS](http://support.gams.com/doku.php?id=gams:gams#error_messages)
+- [Model Library GAMS](https://www.gams.com/latest/gamslib_ml/libhtml/)
+
 ## Teaching and Learning
 
 - [Socrative](https://www.socrative.com/)
@@ -92,3 +93,4 @@ author_profile: true
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/featured)
 - [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 - [Tübingen Machine Learning](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA)
+

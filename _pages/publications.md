@@ -12,12 +12,12 @@ author_profile: true
 
 1.  M. Aguilar-Moreno, S. Pineda, J. M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem" ([preprint](https://arxiv.org/abs/2502.10333))
 1.  E. Prat, R. M. Lusby, J. M. Morales, S. Pineda, P. Pinson, "How long is long enough? Finite-horizon approximation of energy storage scheduling problems" ([preprint](https://arxiv.org/abs/2411.17463))
-1.  A. Jiménez-Cordero, S. Pineda, J. M. Morales, "A Variable Neighborhood Search approach for solving the Rank Pricing Problem" ([preprint](https://arxiv.org/abs/2405.15702))
 1.  R. Li, H. Zhang, M. Sun, C. Wan, S. Pineda, G. Kariniotakis, T. Fei, W. Xu, "Decision-Focused Learning for Future Power System Decision-Making under Uncertainty" ([preprint](https://arxiv.org/abs/2401.03680))
 1.  A. Stratigakos, J. M. Morales, S. Pineda, G. Kariniotakis, "Decision-Focused Data Pooling for Contextual Stochastic Optimization" ([preprint](https://hal.science/hal-04268454))
 
 ## Journal Publications
 
+1.  A. Jiménez-Cordero, S. Pineda, J. M. Morales, "A Variable Neighborhood Search approach for solving the Rank Pricing Problem" accepted in Expert Systems With Applications ([preprint](https://arxiv.org/abs/2405.15702))
 1.  S. Pineda, J. Pérez-Ruiz, J. M. Morales, "Beyond the Neural Fog: Interpretable Learning for AC Optimal Power Flow" accepted in IEEE Transactions on Power Systems ([preprint](https://arxiv.org/pdf/2408.05228))
 1.  J.G. De la Varga, S. Pineda, J.M. Morales, Á. Porras, "Learning-based Improvement in State Estimation for Unobservable Systems" accepted in Electric Power System Research ([preprint](https://arxiv.org/abs/2307.16822), [published](https://www.sciencedirect.com/science/article/pii/S0378779624011544))
 1.  A. Stratigakos, S. Pineda, J.M. Morales, "Decision-focused linear pooling for probabilistic forecast combination" accepted in International Journal of Forecasting ([preprint](https://hal.science/hal-04593114/document), [published](https://www.sciencedirect.com/science/article/pii/S0169207024001213))

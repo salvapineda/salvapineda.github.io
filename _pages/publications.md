@@ -17,7 +17,7 @@ author_profile: true
 
 ## Journal Publications
 
-1.  A. Jiménez-Cordero, S. Pineda, J. M. Morales, "An enhanced heuristic framework for solving the Rank Pricing Problem" accepted in Expert Systems With Applications ([preprint](https://arxiv.org/abs/2405.15702))
+1.  A. Jiménez-Cordero, S. Pineda, J. M. Morales, "An enhanced heuristic framework for solving the Rank Pricing Problem" accepted in Expert Systems With Applications ([preprint](https://arxiv.org/abs/2405.15702),[published](https://www.sciencedirect.com/science/article/pii/S0957417425007444?dgcid=coauthor))
 1.  S. Pineda, J. Pérez-Ruiz, J. M. Morales, "Beyond the Neural Fog: Interpretable Learning for AC Optimal Power Flow" accepted in IEEE Transactions on Power Systems ([preprint](https://arxiv.org/pdf/2408.05228))
 1.  J.G. De la Varga, S. Pineda, J.M. Morales, Á. Porras, "Learning-based Improvement in State Estimation for Unobservable Systems" accepted in Electric Power System Research ([preprint](https://arxiv.org/abs/2307.16822), [published](https://www.sciencedirect.com/science/article/pii/S0378779624011544))
 1.  A. Stratigakos, S. Pineda, J.M. Morales, "Decision-focused linear pooling for probabilistic forecast combination" accepted in International Journal of Forecasting ([preprint](https://hal.science/hal-04593114/document), [published](https://www.sciencedirect.com/science/article/pii/S0169207024001213))

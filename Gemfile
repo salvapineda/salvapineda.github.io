@@ -1,12 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
-end
-
-gem 'github-pages'
+gem "jekyll", "~> 4.0"
+gem "webrick", "~> 1.7" # Required for Jekyll on Ruby 3.x
+gem "minima", "~> 2.5" # Add the minima theme

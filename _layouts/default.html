@@ -1,31 +1,48 @@
----
-layout: compress
----
-
-{% include base_path %}
-
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/styles.css" | relative_url }}">
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+        }
+        main {
+            flex: 1;
+            position: relative;
+        }
+        footer {
+            position: sticky;
+            bottom: 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>
+            Salvador Pineda Morente
+        </h1>
+    </header>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/publications/">Publications</a>
+        <a href="/conferences/">Conferences</a>
+        <a href="/seminars/">Seminars</a>
+        <a href="/teaching/">Teaching</a>
+        <a href="/cv/">CV</a>
+        <a href="/links/">Links</a>
+    </nav>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        <p>&copy; 2025 Salvador Pineda Morente</p>
+    </footer>
+</body>
 </html>

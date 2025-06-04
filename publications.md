@@ -10,7 +10,7 @@ title: "Publications"
 
 # Working Papers
 
-1.  J. Tao, R. Li, S. Pineda, "Unit Commitment with Cost-Oriented Temporal Resolution" 
+1.  J. Tao, R. Li, S. Pineda, "Unit Commitment with Cost-Oriented Temporal Resolution" ([preprint](https://arxiv.org/abs/2506.02707)) 
 1.  M. Aguilar-Moreno, S. Pineda, J. M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem" ([preprint](https://arxiv.org/abs/2502.10333))
 1.  E. Prat, R. M. Lusby, J. M. Morales, S. Pineda, P. Pinson, "How long is long enough? Finite-horizon approximation of energy storage scheduling problems" ([preprint](https://arxiv.org/abs/2411.17463))
 1.  R. Li, H. Zhang, M. Sun, C. Wan, S. Pineda, G. Kariniotakis, T. Fei, W. Xu, "Decision-Focused Learning for Future Power System Decision-Making under Uncertainty" ([preprint](https://arxiv.org/abs/2401.03680))

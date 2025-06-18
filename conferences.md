@@ -6,6 +6,8 @@ title: "Conferences"
 
 # Conferences
 
+1. A. Jiménez-Cordero, S. Pineda, J. M. Morales González, "Solving the Rank Pricing Problem using a heuristic approach", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation]())
+1. S. Pineda, M. Aguilar-Moreno, J. M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation]())
 1.  S. Pineda, J. M. Morales, A. Porras, C. Domínguez, "Tight Big-Ms for Optimal Transmission Switching" in ISMP 2024, Montreal, Canada, July 21-26, 2024 ([presentation](https://github.com/salvapineda/website/blob/main/Presentations/2024%20-%20ISMP%20-%20Tightening%20big-M%20for%20Optimal%20Transmission%20Switching.pdf))
 1.  A. Jiménez-Cordero, S. Pineda, J. M. Morales, "A data-based approach for solving the Rank Pricing Problem" in EURO Conference, Copenhagen, Denmark, June 30 - July 3, 2024 ([presentation](https://github.com/salvapineda/website/blob/main/Presentations/2024%20-%20EURO%20-%20A%20data-based%20approach%20for%20solving%20the%20Rank%20Pricing%20Problem.pdf))
 1.  J. G. de la Varga, S. Pineda, J. M. Morales, A. Porras "Learning-based State Estimation in Distribution Systems with Asynchronized Measurements" in EURO Conference, Copenhagen, Denmark, June 30 - July 3, 2024 ([presentation](https://github.com/salvapineda/website/blob/main/Presentations/2024%20-%20EURO%20-%20Learning-based%20State%20Estimation%20in%20Distribution%20Systems%20with%20Limited%20Real-Time%20Measurements.pdf))

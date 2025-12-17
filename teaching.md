@@ -13,4 +13,5 @@ title: "Teaching"
 1. Course "Operations Research 3: Hierarchical Optimization & Equilibrium" at the University of Copenhagen ([material](https://github.com/salvapineda/website/blob/main/Teaching%20Material/OperationsResearch3.7z))
 1. Curso "Fundamentos de Ingeniería Eléctrica" en la Universidad de Málaga ([material](https://github.com/salvapineda/website/blob/main/Teaching%20Material/FundamentosIngenieriaElectrica.7z))
 1. Curso "Análisis de Redes Eléctricas" en la Universidad de Málaga ([material](https://github.com/salvapineda/website/blob/main/Teaching%20Material/AnalisisRedesElectricas.7z))
-1. Curso "Tecnología Eléctrica" en la Universidad de Málaga ([material](https://github.com/salvapineda/website/blob/main/Teaching%20Material/TecnologiaElectrica.7z)
+1. Curso "Tecnología Eléctrica" en la Universidad de Málaga ([material](https://github.com/salvapineda/website/blob/main/Teaching%20Material/TecnologiaElectrica.7z))
+1. Curso "Generación Eléctrico con Energías Renovables" en la Universidad de Málaga ([material](https://github.com/salvapineda/website/blob/main/Teaching%20Material/GeneracionElectricaRenovables.zip))

@@ -39,8 +39,6 @@ title: "Links"
 - [The RE-Europe Dataset](https://zenodo.org/record/35177#.WT5PrHWGOkB)
 - [Energy Data Service of Energinet.dk](https://www.energidataservice.dk/)
 - [OpenGridWorks](https://opengridworks.com/power-plants)  
-  Public data for public use  
-  Energy infrastructure data and visualization that sparks joy.
 - [DOE Energy Storage Database](http://www.energystorageexchange.org/)
 - [Electric Vehicle Charging Data NREL](https://data.nrel.gov/submissions/69)
 - [CAISO 5-Minute Data](http://www.caiso.com/TodaysOutlook/Pages/supply.aspx)

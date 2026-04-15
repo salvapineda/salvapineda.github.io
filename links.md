@@ -19,6 +19,7 @@ title: "Links"
 - [List of Machine Learning Packages in Python](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
 - [Data-Driven Mathematical Optimization in Python](https://mobook.github.io/MO-book/intro.html)
 - [Solving OPF in Gurobi](https://gurobi-optimods.readthedocs.io/en/stable/mods/opf/opf.html#)
+- [PyOptInterface (Python Optimization Interface)](https://github.com/metab0t/PyOptInterface)
 
 # Power Systems Data
 

@@ -8,7 +8,8 @@ title: "Publications"
 
 # Working Papers
 
-1. I. Repiso, S. Pineda, J. M. Morales, "Interior-Point vs. Spatial Branching Approaches for Solving the AC Optimal Power Flow Problem" ([preprint](https://arxiv.org/abs/2510.15753))
+1. Y. Werner, J. M. Morales, S. Pineda, L. Roald, S. Wogrin, "Scenario Reduction for the Two-Stage Stochastic Unit Commitment Problem" ([preprint](https://arxiv.org/abs/2512.19614))
+1. I. Repiso, S. Pineda, J. M. Morales, "Data-Boosted Optimization for AC Optimal Power Flow: Interior-Point and Spatial Branching Methods" ([preprint](https://arxiv.org/abs/2510.15753))
 1. S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" ([preprint](https://arxiv.org/abs/2507.16496))
 1. J. G. De la Varga, J. M. Morales, S. Pineda, "Robust Contextual State Estimation with Limited Measurement Data" ([preprint](https://arxiv.org/abs/2507.08767))
 1.  J. Tao, R. Li, S. Pineda, "Unit Commitment with Cost-Oriented Temporal Resolution" ([preprint](https://arxiv.org/abs/2506.02707)) 

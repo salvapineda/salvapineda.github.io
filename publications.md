@@ -8,6 +8,7 @@ title: "Publications"
 
 # Working Papers
 
+1. J. G. De la Varga, S. Pineda, J. M. Morales, A. Stratigakos, "End-to-End Pseudo-Measurement Learning for State Estimation under Limited Observability" ([preprint](https://arxiv.org/abs/2605.23525))
 1. Y. Werner, J. M. Morales, S. Pineda, L. Roald, S. Wogrin, "Scenario Reduction for the Two-Stage Stochastic Unit Commitment Problem" ([preprint](https://arxiv.org/abs/2512.19614))
 1. I. Repiso, S. Pineda, J. M. Morales, "Data-Boosted Optimization for AC Optimal Power Flow: Interior-Point and Spatial Branching Methods" ([preprint](https://arxiv.org/abs/2510.15753))
 1. S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" ([preprint](https://arxiv.org/abs/2507.16496))

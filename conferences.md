@@ -6,6 +6,8 @@ title: "Conferences"
 
 # Conferences
 
+1. J. G. de la Varga, J. M. Morales, S. Pineda, "Contextual Robust State Estimation
+in Distribution Systems" IFORS 2026, Vienna, Austria, July 12-17, 2026 ([presentation](https://github.com/salvapineda/website/blob/main/Presentations/2026%20-%20IFORS%20-%20Contextual%20Robust%20State%20Estimation%20in%20Distribution%20Systems.pdf)) 
 1. S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" PSCC 2026, Limassol, Cyprus, June 8-12, 2026 ([presentation](https://github.com/salvapineda/website/blob/main/Presentations/2026%20-%20PSCC%20-%20The%20Sweet%20Spot%20of%20Bound%20Tightening%20for%20Topology%20Optimization.pdf))
 1. A. Jiménez-Cordero, S. Pineda, J. M. Morales, "Solving the Rank Pricing Problem using a heuristic approach", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation](https://github.com/salvapineda/website/blob/main/Presentations/2025%20-%20SEIO%20-%20Solving%20the%20Rank%20Pricing%20Problem%20using%20a%20Heuristic%20Approach.pdf))
 1. S. Pineda, M. Aguilar-Moreno, J. M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation](https://github.com/salvapineda/website/blob/main/Presentations/2025%20-%20SEIO%20-%20A_Graph_Based_Iterative_Strategy_for_Solving_the_All_Line_Transmission_Switching_Problem.pdf))

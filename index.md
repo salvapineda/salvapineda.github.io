@@ -27,7 +27,7 @@ permalink: /
     <td style="width: 200px; vertical-align: top;">
       <img src="salva.jpeg" alt="Salvador Pineda" style="width: 100%;">
       <div style="text-align: center; margin-top: 10px;">
-        🏳️‍🌈🔬🌍📖💻🚲♻️♟️
+        🏳️‍🌈🔬🌍📖💻🚲✊🍅
       </div>
     </td>
     <td style="vertical-align: middle;">

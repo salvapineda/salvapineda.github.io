@@ -18,25 +18,50 @@ permalink: /
   .contact-line {
     margin-bottom: 10px; /* Add spacing between lines */
   }
+  .about-container {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  .about-image {
+    flex: 0 0 200px;
+    text-align: center;
+  }
+  .about-text {
+    flex: 1;
+    min-width: 250px;
+  }
+  @media (max-width: 768px) {
+    .about-container {
+      flex-direction: column;
+      align-items: center;
+    }
+    .about-image {
+      flex: 0 0 auto;
+      max-width: 200px;
+    }
+    .about-text {
+      min-width: 100%;
+    }
+  }
 </style>
 
 # About me
 
-<table>
-  <tr>
-    <td style="width: 200px; vertical-align: top;">
-      <img src="salva.png" alt="Salvador Pineda" style="width: 100%;">
-      <div style="text-align: center; margin-top: 10px;">
-        🏳️‍🌈🔬🌍📖🚲✊🍅
-      </div>
-    </td>
-    <td style="vertical-align: middle;">
-      <p>I am a Full Professor at the Department of Electrical Engineering at the University of Málaga. Previously, I worked at the Department of Mathematical Sciences at the University of Copenhagen (2013–2016) and the Center for Electric Power and Energy at the Technical University of Denmark (2011–2013). I earned my Ph.D. in Electrical Engineering from the University of Castilla-La Mancha (Spain) in 2011, under the supervision of Prof. Antonio Conejo. My doctoral research, titled "Medium-term electricity trading for risk-averse power producers via stochastic programming," developed stochastic mathematical models to optimize the trading strategies of power producers in electricity derivatives markets. I also hold a B.Sc. and M.Sc. in Electrical Engineering from the University of Málaga, obtained in 2004 and 2006, respectively. My research focuses on power system operation and planning, decision-making under uncertainty, bilevel programming, machine learning, and statistics.</p>
-      
-      <p>Outside academia, I enjoy cycling, reading, and growing vegetables in my small garden. I see myself as a citizen of the world and value cultural diversity, openness, and curiosity. I also care deeply about public education, equal opportunities, and creating spaces where everyone is free to be themselves. Live and let live.</p>
-    </td>
-  </tr>
-</table>
+<div class="about-container">
+  <div class="about-image">
+    <img src="salva.png" alt="Salvador Pineda" style="width: 100%;">
+    <div style="text-align: center; margin-top: 10px;">
+      🏳️‍🌈🔬🌍📖🚲✊🍅
+    </div>
+  </div>
+  <div class="about-text">
+    <p>I am a Full Professor at the Department of Electrical Engineering at the University of Málaga. Previously, I worked at the Department of Mathematical Sciences at the University of Copenhagen (2013–2016) and the Center for Electric Power and Energy at the Technical University of Denmark (2011–2013). I earned my Ph.D. in Electrical Engineering from the University of Castilla-La Mancha (Spain) in 2011, under the supervision of Prof. Antonio Conejo. My doctoral research, titled "Medium-term electricity trading for risk-averse power producers via stochastic programming," developed stochastic mathematical models to optimize the trading strategies of power producers in electricity derivatives markets. I also hold a B.Sc. and M.Sc. in Electrical Engineering from the University of Málaga, obtained in 2004 and 2006, respectively. My research focuses on power system operation and planning, decision-making under uncertainty, bilevel programming, machine learning, and statistics.</p>
+    
+    <p>Outside academia, I enjoy cycling, reading, and growing vegetables in my small garden. I see myself as a citizen of the world and value cultural diversity, openness, and curiosity. I also care deeply about public education, equal opportunities, and creating spaces where everyone is free to be themselves. Live and let live.</p>
+  </div>
+</div>
 
 # Contact
 

@@ -6,4 +6,4 @@ permalink: /cv/
 
 # CV
 
-[Full English CV](CV.pdf)
+[Full English CV](/CV.pdf)

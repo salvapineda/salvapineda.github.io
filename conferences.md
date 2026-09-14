@@ -6,6 +6,9 @@ title: "Conferences"
 
 # Conferences
 
+
+1. I. Repiso, S. Pineda, J. M. Morales, "Hybrid Learning Approaches for the AC-OPF" SEIO 2026, Santiago de Compostela, Spain, September 2-5, 2026 ([presentation](/Presentations/2026%20-%20SEIO%20-%20Hybrid%20Learning%20Approaches%20for%20the%20AC-OPF.pdf))
+1. S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" SEIO 2026, Santiago de Compostela, Spain, September 2-5, 2026 ([presentation](/Presentations/2026%20-%20SEIO%20-%20The%20Sweet%20Spot%20of%20Bound%20Tightening%20for%20Topology%20Optimization.pdf))
 1. Y. Werner, J. M. Morales, S. Pineda, L. Roald, S. Wogrin, "Scenario Reduction for the Two-Stage Stochastic Unit Commitment Problem" IFORS 2026, Vienna, Austria, July 12-17, 2026 ([presentation](/Presentations/2026%20-%20IFORS%20Scenario%20Reduction%20for%20the%20Two-Stage%20Stochastic%20Unit%20Commitment%20Problem.pdf)) 
 1. J. G. de la Varga, J. M. Morales, S. Pineda, "Contextual Robust State Estimation
 in Distribution Systems" IFORS 2026, Vienna, Austria, July 12-17, 2026 ([presentation](/Presentations/2026%20-%20IFORS%20-%20Contextual%20Robust%20State%20Estimation%20in%20Distribution%20Systems.pdf)) 

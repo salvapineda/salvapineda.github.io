@@ -12,7 +12,6 @@ title: "Publications"
 1. J. G. De la Varga, S. Pineda, J. M. Morales, A. Stratigakos, "End-to-End Pseudo-Measurement Learning for State Estimation under Limited Observability" ([preprint](https://arxiv.org/abs/2605.23525))
 1. Y. Werner, J. M. Morales, S. Pineda, L. Roald, S. Wogrin, "Scenario Reduction for the Two-Stage Stochastic Unit Commitment Problem" ([preprint](https://arxiv.org/abs/2512.19614))
 1. I. Repiso, S. Pineda, J. M. Morales, "Data-Boosted Optimization for AC Optimal Power Flow: Interior-Point and Spatial Branching Methods" ([preprint](https://arxiv.org/abs/2510.15753))
-1. J. G. De la Varga, J. M. Morales, S. Pineda, "Robust Contextual State Estimation with Limited Measurement Data" ([preprint](https://arxiv.org/abs/2507.08767))
 1.  J. Tao, R. Li, S. Pineda, "Unit Commitment with Cost-Oriented Temporal Resolution" ([preprint](https://arxiv.org/abs/2506.02707)) 
 1.  M. Aguilar-Moreno, S. Pineda, J. M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem" ([preprint](https://arxiv.org/abs/2502.10333))
 1.  E. Prat, R. M. Lusby, J. M. Morales, S. Pineda, P. Pinson, "How long is long enough? Finite-horizon approximation of energy storage scheduling problems" ([preprint](https://arxiv.org/abs/2411.17463))
@@ -20,6 +19,7 @@ title: "Publications"
 
 # Journal Publications
 
+1. J. G. De la Varga, J. M. Morales, S. Pineda, "Contextual Robust State Estimation in Distribution Systems with Real-Time Unobservability and Scarce Data" ([preprint](https://arxiv.org/abs/2507.08767), [published](https://ieeexplore.ieee.org/document/11690594))
 1. S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" in Electric Power Systems Research, vol. 262, pp. 113538, 2027. ([preprint](https://arxiv.org/abs/2507.16496), [published](https://doi.org/10.1016/j.epsr.2026.113538))
 1.  R. Li, H. Zhang, M. Sun, C. Wan, S. Pineda, G. Kariniotakis, T. Fei, W. Xu, "Decision-Focused Learning for Future Power System Decision-Making under Uncertainty" in IEEE Transactions on Power Systems, vol. 41, no. 1, pp. 307-323, 2026 ([preprint](https://arxiv.org/abs/2401.03680), [published](https://ieeexplore.ieee.org/document/11122623))
 1.  A. Jiménez-Cordero, S. Pineda, J. M. Morales, "An enhanced heuristic framework for solving the Rank Pricing Problem" in Expert Systems With Applications, vol. 276, p. 127122, 2025 ([preprint](https://arxiv.org/abs/2405.15702),[published](https://www.sciencedirect.com/science/article/pii/S0957417425007444?dgcid=coauthor))

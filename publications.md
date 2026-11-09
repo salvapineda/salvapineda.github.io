@@ -12,11 +12,11 @@ title: "Publications"
 1. Y. Werner, J. M. Morales, S. Pineda, L. Roald, S. Wogrin, "Scenario Reduction for the Two-Stage Stochastic Unit Commitment Problem" ([preprint](https://arxiv.org/abs/2512.19614))
 1. I. Repiso, S. Pineda, J. M. Morales, "Data-Boosted Optimization for AC Optimal Power Flow: Interior-Point and Spatial Branching Methods" ([preprint](https://arxiv.org/abs/2510.15753))
 1.  J. Tao, R. Li, S. Pineda, "Unit Commitment with Cost-Oriented Temporal Resolution" ([preprint](https://arxiv.org/abs/2506.02707)) 
-1.  M. Aguilar-Moreno, S. Pineda, J. M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem" ([preprint](https://arxiv.org/abs/2502.10333))
 1.  E. Prat, R. M. Lusby, J. M. Morales, S. Pineda, P. Pinson, "How long is long enough? Finite-horizon approximation of energy storage scheduling problems" ([preprint](https://arxiv.org/abs/2411.17463))
 
 # Journal Publications
 
+1.  M. Aguilar-Moreno, S. Pineda, J. M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem" ([preprint](https://arxiv.org/abs/2502.10333), [published](https://link.springer.com/article/10.1007/s11750-026-00733-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20261107&utm_content=10.1007/s11750-026-00733-6))
 1. J. G. De la Varga, S. Pineda, J. M. Morales, A. Stratigakos, "End-to-End Pseudo-Measurement Learning for State Estimation under Limited Observability" in Electric Power Systems Research, vol. 265, pp. 114220, 2027 ([preprint](https://arxiv.org/abs/2605.23525), [published](https://www.sciencedirect.com/science/article/pii/S0378779626015051))
 1. J. G. De la Varga, J. M. Morales, S. Pineda, "Contextual Robust State Estimation in Distribution Systems with Real-Time Unobservability and Scarce Data" in IEEE Open Access Journal of Power and Energy, vol. 13, pp. 788-799, 2026 ([preprint](https://arxiv.org/abs/2507.08767), [published](https://ieeexplore.ieee.org/document/11690594))
 1. S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" in Electric Power Systems Research, vol. 262, pp. 113538, 2027. ([preprint](https://arxiv.org/abs/2507.16496), [published](https://doi.org/10.1016/j.epsr.2026.113538))
